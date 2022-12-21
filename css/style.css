@@ -1,0 +1,35 @@
+  body 
+{
+   background-color:#84d08e;
+   padding:5px;
+}
+hr
+{
+   border-style:none;
+   border-top-style:dotted;
+   width:50px;
+   border-width:5px;
+   color:white;
+}
+h3
+{
+    color:aliceblue;
+    display:block;
+    font-size:1.17em;
+    margin-block-start:1em;
+    margin-block-end:1em;
+    margin-inline-start:0px;
+    margin-inline-end:0px;
+    font-weight:bold;
+}
+h1
+{
+    color:aliceblue;
+    display:block;
+    font-size:2.17em;
+    margin-block-start:1em;
+    margin-block-end:1em;
+    margin-inline-start:0px;
+    margin-inline-end:0px;
+    font-weight:bold;
+}
